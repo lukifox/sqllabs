@@ -1,0 +1,1 @@
+<?php $username ="root"; $password =""; $database ="lizcoder"; $host ="localhost";?>
